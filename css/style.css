@@ -4,4 +4,8 @@ body {
 
 p {
   font-size: 13px;
+  }
+.news{
+  font-style:italic;
+  margin: 0 auto;
 }
